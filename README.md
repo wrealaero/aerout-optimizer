@@ -3,7 +3,7 @@
 a mac app that cleans, secures and speeds up your system. everything is reversible so you can mess around without breaking anything.
 
 <p align="center">
-  <img src="screenshots/homepage.png" width="820" alt="Aerout Optimizer">
+  <img src="screenshots/coolss.png" width="820" alt="Aerout Optimizer">
 </p>
 
 discord: https://discord.gg/VEEUR7ueDA
