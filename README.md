@@ -32,24 +32,5 @@ xattr -cr /Applications/AeroutOptimizer.app
 
 after that it opens fine every time. auto updates are built in so youre always on the latest.
 
-## license
-
-new people get a 2 day free trial, no key needed, just open the app and hit continue.
-
-to buy:
-1. join the [discord](https://discord.gg/VEEUR7ueDA)
-2. make a ticket and pay
-3. bot sends your key, click set password
-4. open the app, put in your license and password, done
-
-you can reset your hwid, reset your password or check your status anytime from the aerout bot channel in the server.
-
-## pricing
-
-- free for 2 days
-- $5/month
-- $30 lifetime
-
-make a ticket in the [discord](https://discord.gg/VEEUR7ueDA) to buy. macos 12+.
 
 need help? make a ticket or dm @5qvx.
